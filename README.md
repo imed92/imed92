@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there! I'm Imed Ben Amor. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center"> Hey there! I'm Imed Ben Amor. </h2>
 
 <img align="right" src="imed.png" width="150">
 
