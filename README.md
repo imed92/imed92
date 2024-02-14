@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Imed Ben Amor. </h2>
 
-<img align="right" src="imed.png" width="150">
+
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
